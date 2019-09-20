@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <Authors>Yawapan Saya</Authors>
-    <Company>NJSZKI</Company>
+    <Company>Yawapan Saya</Company>
     <Description>-</Description>
     <Version>1.2.0</Version>
   </PropertyGroup>
