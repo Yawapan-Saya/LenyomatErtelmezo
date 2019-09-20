@@ -2,11 +2,11 @@
 
 A könyvtár képes visszaállítani a lenyomatból a szoba szerkezetét
 
-[https://isze.hu/dusza-arpad-orszagos-programozoi-emlekverseny](A feladat)
+[A feladat](https://isze.hu/dusza-arpad-orszagos-programozoi-emlekverseny)
 
 ## Telepítés
 
-1. Telepítsd a LenyomatErtelmező nevű [nuget](https://docs.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual-studio) csomagot
+1. Telepítsd a LenyomatErtelmező nevű [https://docs.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual-studio](nuget) csomagot
 2. Másold be ezt a forrásfájlod elejére: ```using LenyomatErtelmező;```
 
 ## Használat
@@ -16,24 +16,24 @@ A könyvtár képes visszaállítani a lenyomatból a szoba szerkezetét
 
 ## Dokumentáció
 
-### Alaprajz#Alaprajz
+#### Alaprajz#Alaprajz
 
 paraméter lenyomat: Az épület bool[,] típusú lenyomata
 Visszatérési érték: Egy felcímkézett épületet
 
-### Alaprajz#Print
+#### Alaprajz#Print
 
 Visszatérési érték: Egy string, amely a felcímkézi az objectekete a feladat leírásának megfelelően
 
-### Alaprajz#SzobákSzáma
+#### Alaprajz#SzobákSzáma
 
 Visszatérési érték: A szobák száma
 
-### Alaprajz#Szélesség
+#### Alaprajz#Szélesség
 
 Az épület szélessége (beleírtve a körülette lévő kertet)
 
-### Alaprajz#Magasság
+#### Alaprajz#Magasság
 
 Az épület magassága (beleírtve a körülette lévő kertet)
 
