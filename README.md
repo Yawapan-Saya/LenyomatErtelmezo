@@ -6,7 +6,7 @@ A könyvtár képes visszaállítani a lenyomatból a szoba szerkezetét
 
 ## Telepítés
 
-1. Telepítsd a LenyomatErtelmező nevű [https://docs.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual-studio](nuget) csomagot
+1. Telepítsd a LenyomatErtelmező nevű [nuget](https://docs.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual-studio) csomagot
 2. Másold be ezt a forrásfájlod elejére: ```using LenyomatErtelmező;```
 
 ## Használat
