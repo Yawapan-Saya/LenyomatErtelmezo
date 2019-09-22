@@ -16,25 +16,25 @@ A könyvtár képes visszaállítani a lenyomatból a szoba szerkezetét
 
 ## Dokumentáció
 
-#### Alaprajz#Alaprajz
+### Alaprajz#Alaprajz
 
 **paraméter lenyomat:** Az épület bool[,] típusú lenyomata
 
 **Visszatérési érték:** Egy felcímkézett épületet
 
-#### Alaprajz#Print
+### Alaprajz#Print
 
 **Visszatérési érték:** Egy string, amely a felcímkézi az objectekete a feladat leírásának megfelelően
 
-#### Alaprajz#SzobákSzáma
+### Alaprajz#SzobákSzáma
 
 **Visszatérési érték:** A szobák száma
 
-#### Alaprajz#Szélesség
+### Alaprajz#Szélesség
 
 Az épület szélessége (beleértve a körülette lévő kertet)
 
-#### Alaprajz#Magasság
+### Alaprajz#Magasság
 
 Az épület magassága (beleértve a körülette lévő kertet)
 
