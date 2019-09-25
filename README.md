@@ -42,9 +42,10 @@ Az épület magassága (beleértve a körülette lévő kertet)
 ## Unity - Megoldás vizualizálása
 
 |Script| mappában találhatóak a használt scriptek
-|Alaprajz| mappában keresendőek  a felhasznált alaprajzok / "szobák"
-|Futtatás| mappában pedig a 3D-s vizualizációs alkalmazásnak a(z) .exe fájlja található
 
+|Alaprajz| mappában keresendőek  a felhasznált alaprajzok / "szobák"
+
+|Futtatás| mappában pedig a 3D-s vizualizációs alkalmazásnak a(z) .exe fájlja található
 
 ## Fejlesztők
 
