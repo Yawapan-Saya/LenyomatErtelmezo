@@ -46,6 +46,7 @@ Az épület magassága (beleértve a körülette lévő kertet)
 |Alaprajz| mappában keresendőek  a felhasznált alaprajzok / "szobák"
 
 |Futtatás| mappában pedig a 3D-s vizualizációs alkalmazásnak a(z) .exe fájlja található
+  Ahoz, hogy a(z) .exe működjön le kell tölteni az egész "Futtatás" mappát hozzá!
 
 ## Fejlesztők
 
